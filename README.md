@@ -30,7 +30,7 @@ To get the project up and running in IDEA, do:
 - If you get a message about no JDK or SDK being selected. Choose "Configure" and select your installed JDK. You can also set the JDK using File -> Project Structure
 - To start the project, find the "Maven Projects" tab on the right hand side of the screen and navigate to
   - Vaadin Web Application -> Plugins -> jetty -> jetty:run
-  - Click the play button or right click and select Run (Select Debug instead to run in debug mode)
+  - Click the play button or right click and select Run (Select Debug instead to run in debug mode);
 
 You should now have a Jetty server running on localhost:8080. Navigate to http://localhost:8080 to play with the application h
 
